@@ -1,10 +1,11 @@
 Olá, meu nome é Diego Silva. 
 miguelprofissional8@gmail.com
-Brazil, +55 62 999398428
+Brazil, Goiás, Goiânia. 
++55 62 999398428
 I Love you, Thauu obrigado. :-)
 
 - 👋 Hi, I’m @miguelprofissional8@gmail.com
-- 👀 I’m currently learning c++,c#, Windows Forms, git and others.
+- 👀 I’m currently learning c++,c#, Windows Forms, Github  and Git.
 
 
 <!---
