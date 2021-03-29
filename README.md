@@ -4,7 +4,7 @@ Brazil, +55 62 999398428
 I Love you, Thauu obrigado. :-)
 
 - 👋 Hi, I’m @miguelprofissional8@gmail.com
-- 👀 I’m currently learning, c++, git and others.
+- 👀 I’m currently learning c++,c#, Windows Forms, git and others.
 
 
 <!---
